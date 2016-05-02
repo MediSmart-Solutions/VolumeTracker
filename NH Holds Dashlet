@@ -1,0 +1,255 @@
+<tr>
+<td nowrap><h3><span>My Holds</span></h3></td><td width='20'><img height='1' width='20' src='themes/default/images/blank.gif?v=RAFCbusQVS_iT_1V5cWgbQ' alt=''></td>
+<td valign='middle' nowrap width='100%'><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td width="99%"></td><td nowrap width="1%" style="padding-right: 0px;"><div class="dashletToolSet"><a href="javascript:void(0)" onclick="SUGAR.mySugar.configureDashlet('69fc44c5-35d2-a4fd-2b2f-571a6b17b36d'); return false;"><img src="themes/NextHealthLabsDist/images/dashlet-header-edit.png?v=RAFCbusQVS_iT_1V5cWgbQ"    title="Edit Sugar Dashlet" border="0"  align="absmiddle" alt="Edit Sugar Dashlet" /></a><a href="javascript:void(0)" onclick="SUGAR.mySugar.retrieveDashlet('69fc44c5-35d2-a4fd-2b2f-571a6b17b36d'); return false;"><img src="themes/NextHealthLabsDist/images/dashlet-header-refresh.png?v=RAFCbusQVS_iT_1V5cWgbQ"    border="0" align="absmiddle" title="Refresh Sugar Dashlet" alt="Refresh Sugar Dashlet" /></a></div></td></tr></table></td></tr>
+</table></div><div class="tr"></div></div><div class="bd"><div class="ml"></div><div class="bd-center">
+						
+
+<table cellpadding='0' cellspacing='0' width='100%' border='0' class='list view'>
+    <tr class="pagination" role=”presentation”>
+        <td colspan='15' align='right'>
+            <table border='0' cellpadding='0' cellspacing='0' width='100%'>
+                <tr>
+                    <td align='left'>&nbsp;</td>
+                    <td align='right' nowrap='nowrap'>
+                                                    <!--<img src="themes/NextHealthLabsDist/images/start_off.png?v=RAFCbusQVS_iT_1V5cWgbQ"    align="absmiddle" border="0"  alt="Start" />&nbsp;Start&nbsp;&nbsp;-->
+							<button title='Start' class='button' disabled>
+								<img src="themes/NextHealthLabsDist/images/start_off.png?v=RAFCbusQVS_iT_1V5cWgbQ"    align="absmiddle" border="0"  alt="" />
+							</button>
+
+                                                                            <!--<img src="themes/NextHealthLabsDist/images/previous_off.png?v=RAFCbusQVS_iT_1V5cWgbQ"  width="8" height="13" align="absmiddle" border="0"  alt="Previous" />&nbsp;Previous&nbsp;-->
+							<button class='button' disabled title='Previous'>
+								<img src="themes/NextHealthLabsDist/images/previous_off.png?v=RAFCbusQVS_iT_1V5cWgbQ"    align="absmiddle" border="0"  alt="" />
+							</button>
+                                                    <span class='pageNumbers'>(1 - 10 of 536)</span>
+                                                    <!--&nbsp;<a href='#' onclick='return SUGAR.mySugar.retrieveDashlet("69fc44c5-35d2-a4fd-2b2f-571a6b17b36d", "index.php?module=Home&action=DynamicAction&DynamicAction=displayDashlet&lvso=ASC&Home2_LABNE_HOLDS_offset=10&sugar_body_only=1&id=69fc44c5-35d2-a4fd-2b2f-571a6b17b36d")' >Next&nbsp;<img src="themes/NextHealthLabsDist/images/next.png?v=RAFCbusQVS_iT_1V5cWgbQ"  width="8" height="13" align="absmiddle" border="0"  alt="Next" /></a>&nbsp;-->
+							<button title='Next' class='button' onclick='return SUGAR.mySugar.retrieveDashlet("69fc44c5-35d2-a4fd-2b2f-571a6b17b36d", "index.php?module=Home&action=DynamicAction&DynamicAction=displayDashlet&lvso=ASC&Home2_LABNE_HOLDS_offset=10&sugar_body_only=1&id=69fc44c5-35d2-a4fd-2b2f-571a6b17b36d")'>
+								<img src="themes/NextHealthLabsDist/images/next.png?v=RAFCbusQVS_iT_1V5cWgbQ"    align="absmiddle" border="0"  alt="Next" />
+							</button>
+
+                        						                            <!--<a href='#' onclick='return SUGAR.mySugar.retrieveDashlet("69fc44c5-35d2-a4fd-2b2f-571a6b17b36d", "index.php?module=Home&action=DynamicAction&DynamicAction=displayDashlet&lvso=ASC&Home2_LABNE_HOLDS_offset=530&sugar_body_only=1&id=69fc44c5-35d2-a4fd-2b2f-571a6b17b36d")' >End&nbsp;<img src="themes/NextHealthLabsDist/images/end.png?v=RAFCbusQVS_iT_1V5cWgbQ"  width="14" height="13" align="absmiddle" border="0"  alt="End" /></a></td>-->
+							<button title='End' class='button' onclick='return SUGAR.mySugar.retrieveDashlet("69fc44c5-35d2-a4fd-2b2f-571a6b17b36d", "index.php?module=Home&action=DynamicAction&DynamicAction=displayDashlet&lvso=ASC&Home2_LABNE_HOLDS_offset=530&sugar_body_only=1&id=69fc44c5-35d2-a4fd-2b2f-571a6b17b36d")'>
+								<img src="themes/NextHealthLabsDist/images/end.png?v=RAFCbusQVS_iT_1V5cWgbQ"    align="absmiddle" border="0"  alt="End" />							
+							</button>
+
+						                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr height='20'>
+        	        <th scope='col' width='16%'>
+				<div style='white-space: normal;'width='100%' align='left'>
+                 
+	                <a href='#' onclick='return SUGAR.mySugar.retrieveDashlet("69fc44c5-35d2-a4fd-2b2f-571a6b17b36d", "index.php?module=Home&action=DynamicAction&DynamicAction=displayDashlet&lvso=ASC&Home2_LABNE_HOLDS_ORDER_BY=name&sugar_body_only=1&id=69fc44c5-35d2-a4fd-2b2f-571a6b17b36d")' class='listViewThLinkS1' title="Sort">Name</a>&nbsp;&nbsp;
+	                                                                	                    <img src="themes/default/images/arrow.gif?v=RAFCbusQVS_iT_1V5cWgbQ"  width="8" height="10" align="absmiddle" border="0"  alt="Sort" />
+	                	           			   </div>
+            </th>
+        	        <th scope='col' width='16%'>
+				<div style='white-space: normal;'width='100%' align='left'>
+                 
+	                <a href='#' onclick='return SUGAR.mySugar.retrieveDashlet("69fc44c5-35d2-a4fd-2b2f-571a6b17b36d", "index.php?module=Home&action=DynamicAction&DynamicAction=displayDashlet&lvso=ASC&Home2_LABNE_HOLDS_ORDER_BY=physician_c&sugar_body_only=1&id=69fc44c5-35d2-a4fd-2b2f-571a6b17b36d")' class='listViewThLinkS1' title="Sort">Physician</a>&nbsp;&nbsp;
+	                                                                	                    <img src="themes/default/images/arrow.gif?v=RAFCbusQVS_iT_1V5cWgbQ"  width="8" height="10" align="absmiddle" border="0"  alt="Sort" />
+	                	           			   </div>
+            </th>
+        	        <th scope='col' width='16%'>
+				<div style='white-space: normal;'width='100%' align='left'>
+                 
+	                <a href='#' onclick='return SUGAR.mySugar.retrieveDashlet("69fc44c5-35d2-a4fd-2b2f-571a6b17b36d", "index.php?module=Home&action=DynamicAction&DynamicAction=displayDashlet&lvso=ASC&Home2_LABNE_HOLDS_ORDER_BY=status&sugar_body_only=1&id=69fc44c5-35d2-a4fd-2b2f-571a6b17b36d")' class='listViewThLinkS1' title="Sort">Status</a>&nbsp;&nbsp;
+	                                                                	                    <img src="themes/default/images/arrow.gif?v=RAFCbusQVS_iT_1V5cWgbQ"  width="8" height="10" align="absmiddle" border="0"  alt="Sort" />
+	                	           			   </div>
+            </th>
+        	        <th scope='col' width='50%'>
+				<div style='white-space: normal;'width='100%' align='left'>
+                 
+	                <a href='#' onclick='return SUGAR.mySugar.retrieveDashlet("69fc44c5-35d2-a4fd-2b2f-571a6b17b36d", "index.php?module=Home&action=DynamicAction&DynamicAction=displayDashlet&lvso=ASC&Home2_LABNE_HOLDS_ORDER_BY=hold_reason&sugar_body_only=1&id=69fc44c5-35d2-a4fd-2b2f-571a6b17b36d")' class='listViewThLinkS1' title="Sort">Hold Reason</a>&nbsp;&nbsp;
+	                                                                	                    <img src="themes/default/images/arrow.gif?v=RAFCbusQVS_iT_1V5cWgbQ"  width="8" height="10" align="absmiddle" border="0"  alt="Sort" />
+	                	           			   </div>
+            </th>
+        				<td  class='td_alt' nowrap="nowrap" width='1%'>&nbsp;</td>
+		    </tr>
+        
+										<tr height='20' class='oddListRowS1'>
+						
+						    <td scope='row' align='left' valign="top" ><b><a href='index.php?action=DetailView&module=labne_Holds&record=ec4d18e5-1079-11e6-a2cc-00505695a7a0&offset=1&stamp=1462206446018765000'>
+UST604498</a></b></td>
+				
+						    <td scope='row' align='left' valign="top" >
+CHOUDRI, MOBEEN</td>
+				
+						    <td scope='row' align='left' valign="top" >
+Pending</td>
+				
+						    <td scope='row' align='left' valign="top" >
+TEST ORDER VERIFICATION  </td>
+				
+									<td width='1%' class='oddListRowS1' bgcolor='' nowrap>
+													<a title='View' href='index.php?action=DetailView&module=labne_Holds&record=ec4d18e5-1079-11e6-a2cc-00505695a7a0&offset=1&stamp=1462206446018765000&return_module=Home&return_action=index' title="View><img src="themes/default/images/view_inline.gif?v=RAFCbusQVS_iT_1V5cWgbQ"    border="0"  alt="" /></a>
+							</td>
+				    	</tr>
+										<tr height='20' class='evenListRowS1'>
+						
+						    <td scope='row' align='left' valign="top" ><b><a href='index.php?action=DetailView&module=labne_Holds&record=4e483f2d-1078-11e6-a2cc-00505695a7a0&offset=2&stamp=1462206446018765000'>
+UST604494</a></b></td>
+				
+						    <td scope='row' align='left' valign="top" >
+CIAGLIA, MARK</td>
+				
+						    <td scope='row' align='left' valign="top" >
+Pending</td>
+				
+						    <td scope='row' align='left' valign="top" >
+TEST ORDER VERIFICATION  </td>
+				
+									<td width='1%' class='evenListRowS1' bgcolor='' nowrap>
+													<a title='View' href='index.php?action=DetailView&module=labne_Holds&record=4e483f2d-1078-11e6-a2cc-00505695a7a0&offset=2&stamp=1462206446018765000&return_module=Home&return_action=index' title="View><img src="themes/default/images/view_inline.gif?v=RAFCbusQVS_iT_1V5cWgbQ"    border="0"  alt="" /></a>
+							</td>
+				    	</tr>
+										<tr height='20' class='oddListRowS1'>
+						
+						    <td scope='row' align='left' valign="top" ><b><a href='index.php?action=DetailView&module=labne_Holds&record=31caf9e2-106d-11e6-a2cc-00505695a7a0&offset=3&stamp=1462206446018765000'>
+MED276203</a></b></td>
+				
+						    <td scope='row' align='left' valign="top" >
+CIAGLIA, MARK</td>
+				
+						    <td scope='row' align='left' valign="top" >
+Pending</td>
+				
+						    <td scope='row' align='left' valign="top" >
+TEST ORDER VERIFICATION  </td>
+				
+									<td width='1%' class='oddListRowS1' bgcolor='' nowrap>
+													<a title='View' href='index.php?action=DetailView&module=labne_Holds&record=31caf9e2-106d-11e6-a2cc-00505695a7a0&offset=3&stamp=1462206446018765000&return_module=Home&return_action=index' title="View><img src="themes/default/images/view_inline.gif?v=RAFCbusQVS_iT_1V5cWgbQ"    border="0"  alt="" /></a>
+							</td>
+				    	</tr>
+										<tr height='20' class='evenListRowS1'>
+						
+						    <td scope='row' align='left' valign="top" ><b><a href='index.php?action=DetailView&module=labne_Holds&record=ff5631af-0e47-11e6-a2cc-00505695a7a0&offset=4&stamp=1462206446018765000'>
+UNT279952</a></b></td>
+				
+						    <td scope='row' align='left' valign="top" >
+ADICKES, MARK</td>
+				
+						    <td scope='row' align='left' valign="top" >
+Pending</td>
+				
+						    <td scope='row' align='left' valign="top" >
+OTHER- SEE DESCRIPTION  </td>
+				
+									<td width='1%' class='evenListRowS1' bgcolor='' nowrap>
+													<a title='View' href='index.php?action=DetailView&module=labne_Holds&record=ff5631af-0e47-11e6-a2cc-00505695a7a0&offset=4&stamp=1462206446018765000&return_module=Home&return_action=index' title="View><img src="themes/default/images/view_inline.gif?v=RAFCbusQVS_iT_1V5cWgbQ"    border="0"  alt="" /></a>
+							</td>
+				    	</tr>
+										<tr height='20' class='oddListRowS1'>
+						
+						    <td scope='row' align='left' valign="top" ><b><a href='index.php?action=DetailView&module=labne_Holds&record=d072a1ba-0e40-11e6-a2cc-00505695a7a0&offset=5&stamp=1462206446018765000'>
+UST604448</a></b></td>
+				
+						    <td scope='row' align='left' valign="top" >
+MORGAN, KEVIN</td>
+				
+						    <td scope='row' align='left' valign="top" >
+Pending</td>
+				
+						    <td scope='row' align='left' valign="top" >
+MISSING INSURANCE INFORMATION</td>
+				
+									<td width='1%' class='oddListRowS1' bgcolor='' nowrap>
+													<a title='View' href='index.php?action=DetailView&module=labne_Holds&record=d072a1ba-0e40-11e6-a2cc-00505695a7a0&offset=5&stamp=1462206446018765000&return_module=Home&return_action=index' title="View><img src="themes/default/images/view_inline.gif?v=RAFCbusQVS_iT_1V5cWgbQ"    border="0"  alt="" /></a>
+							</td>
+				    	</tr>
+										<tr height='20' class='evenListRowS1'>
+						
+						    <td scope='row' align='left' valign="top" ><b><a href='index.php?action=DetailView&module=labne_Holds&record=cbfade25-0e40-11e6-a2cc-00505695a7a0&offset=6&stamp=1462206446018765000'>
+UST604447</a></b></td>
+				
+						    <td scope='row' align='left' valign="top" >
+NASH, EDWARD</td>
+				
+						    <td scope='row' align='left' valign="top" >
+Pending</td>
+				
+						    <td scope='row' align='left' valign="top" >
+OTHER- SEE DESCRIPTION  </td>
+				
+									<td width='1%' class='evenListRowS1' bgcolor='' nowrap>
+													<a title='View' href='index.php?action=DetailView&module=labne_Holds&record=cbfade25-0e40-11e6-a2cc-00505695a7a0&offset=6&stamp=1462206446018765000&return_module=Home&return_action=index' title="View><img src="themes/default/images/view_inline.gif?v=RAFCbusQVS_iT_1V5cWgbQ"    border="0"  alt="" /></a>
+							</td>
+				    	</tr>
+										<tr height='20' class='oddListRowS1'>
+						
+						    <td scope='row' align='left' valign="top" ><b><a href='index.php?action=DetailView&module=labne_Holds&record=70eb74ab-0e3d-11e6-a2cc-00505695a7a0&offset=7&stamp=1462206446018765000'>
+UST604443</a></b></td>
+				
+						    <td scope='row' align='left' valign="top" >
+BUTTS, TURNER</td>
+				
+						    <td scope='row' align='left' valign="top" >
+Pending</td>
+				
+						    <td scope='row' align='left' valign="top" >
+OTHER- SEE DESCRIPTION  </td>
+				
+									<td width='1%' class='oddListRowS1' bgcolor='' nowrap>
+													<a title='View' href='index.php?action=DetailView&module=labne_Holds&record=70eb74ab-0e3d-11e6-a2cc-00505695a7a0&offset=7&stamp=1462206446018765000&return_module=Home&return_action=index' title="View><img src="themes/default/images/view_inline.gif?v=RAFCbusQVS_iT_1V5cWgbQ"    border="0"  alt="" /></a>
+							</td>
+				    	</tr>
+										<tr height='20' class='evenListRowS1'>
+						
+						    <td scope='row' align='left' valign="top" ><b><a href='index.php?action=DetailView&module=labne_Holds&record=9f7def0c-0e1f-11e6-a2cc-00505695a7a0&offset=8&stamp=1462206446018765000'>
+UST604348</a></b></td>
+				
+						    <td scope='row' align='left' valign="top" >
+CIAGLIA, MARK</td>
+				
+						    <td scope='row' align='left' valign="top" >
+Pending</td>
+				
+						    <td scope='row' align='left' valign="top" >
+TEST ORDER VERIFICATION  </td>
+				
+									<td width='1%' class='evenListRowS1' bgcolor='' nowrap>
+													<a title='View' href='index.php?action=DetailView&module=labne_Holds&record=9f7def0c-0e1f-11e6-a2cc-00505695a7a0&offset=8&stamp=1462206446018765000&return_module=Home&return_action=index' title="View><img src="themes/default/images/view_inline.gif?v=RAFCbusQVS_iT_1V5cWgbQ"    border="0"  alt="" /></a>
+							</td>
+				    	</tr>
+										<tr height='20' class='oddListRowS1'>
+						
+						    <td scope='row' align='left' valign="top" ><b><a href='index.php?action=DetailView&module=labne_Holds&record=581dcafa-0e1e-11e6-a2cc-00505695a7a0&offset=9&stamp=1462206446018765000'>
+MED275776</a></b></td>
+				
+						    <td scope='row' align='left' valign="top" >
+CIAGLIA, MARK</td>
+				
+						    <td scope='row' align='left' valign="top" >
+Pending</td>
+				
+						    <td scope='row' align='left' valign="top" >
+TEST ORDER VERIFICATION</td>
+				
+									<td width='1%' class='oddListRowS1' bgcolor='' nowrap>
+													<a title='View' href='index.php?action=DetailView&module=labne_Holds&record=581dcafa-0e1e-11e6-a2cc-00505695a7a0&offset=9&stamp=1462206446018765000&return_module=Home&return_action=index' title="View><img src="themes/default/images/view_inline.gif?v=RAFCbusQVS_iT_1V5cWgbQ"    border="0"  alt="" /></a>
+							</td>
+				    	</tr>
+										<tr height='20' class='evenListRowS1'>
+						
+						    <td scope='row' align='left' valign="top" ><b><a href='index.php?action=DetailView&module=labne_Holds&record=9490e0d2-0e1d-11e6-a2cc-00505695a7a0&offset=10&stamp=1462206446018765000'>
+UNT279632</a></b></td>
+				
+						    <td scope='row' align='left' valign="top" >
+MUNSHI, OMER</td>
+				
+						    <td scope='row' align='left' valign="top" >
+Pending</td>
+				
+						    <td scope='row' align='left' valign="top" >
+OTHER- SEE DESCRIPTION  </td>
+				
+									<td width='1%' class='evenListRowS1' bgcolor='' nowrap>
+													<a title='View' href='index.php?action=DetailView&module=labne_Holds&record=9490e0d2-0e1d-11e6-a2cc-00505695a7a0&offset=10&stamp=1462206446018765000&return_module=Home&return_action=index' title="View><img src="themes/default/images/view_inline.gif?v=RAFCbusQVS_iT_1V5cWgbQ"    border="0"  alt="" /></a>
+							</td>
+				    	</tr>
+	</table><input type="hidden" id="69fc44c5-35d2-a4fd-2b2f-571a6b17b36d_offset" name="69fc44c5-35d2-a4fd-2b2f-571a6b17b36d_offset" value="0">
+<input type="hidden" id="69fc44c5-35d2-a4fd-2b2f-571a6b17b36d_interval" name="69fc44c5-35d2-a4fd-2b2f-571a6b17b36d_interval" value="0">
+<script type='text/javascript'>
+<!--
+var autoRefreshProcId69fc44c535d2a4fd2b2f571a6b17b36d = '';
